@@ -169,8 +169,8 @@ Gratitude to:
 
 ## 🤝 Contributions
 
-* Submit Issues [🔗](https://github.com/yourusername/uart_data_logger/issues)
-* Submit Pull Requests [🔗](https://github.com/yourusername/uart_data_logger/pulls)
+* Submit Issues 
+* Submit Pull Requests
 * ⭐ Star the repository if it helped you!
 
 > *“From bits to BRAM – enabling smart data capture, byte by byte.”*
